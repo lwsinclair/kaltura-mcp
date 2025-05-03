@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zoharbabin-kaltura-mcp-badge.png)](https://mseep.ai/app/zoharbabin-kaltura-mcp)
+
 # Kaltura Model Context Protocol (MCP) Server
 
 The Kaltura MCP Server is an implementation of the [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/mcp) that provides AI models with access to Kaltura's media management capabilities.
